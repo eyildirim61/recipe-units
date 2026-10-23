@@ -1,0 +1,9 @@
+{
+  "name": "recipe-units",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Convert recipes between Turkish cups, US cups and grams, and scale them.",
+  "scripts": { "test": "node --test tests/*.test.js" },
+  "license": "MIT"
+}
